@@ -45,7 +45,7 @@ module.exports = {
             'How much protein is too much protein?': [
                 'There\'s no such thing',
                 '1 gram per pound of weight is typically the maximum for bodybuilding',
-                'I\'m supposed to eat protein?',
+                'Am I supposed to eat protein?',
                 'You don\'t need protein because your muscles are made of protein',
             ],
         },

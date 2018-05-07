@@ -22,7 +22,7 @@ const GAME_STATES = {
    START: "_STARTMODE", // Entry point, start the game.
    HELP: "_HELPMODE", // The user is asking for help.
 };
-const APP_ID = "amzn1.ask.skill.0a07fe23-e878-4d1e-b159-8ea34590b003"; // TODO replace with your app ID (OPTIONAL)
+const APP_ID = "";//"amzn1.ask.skill.0a07fe23-e878-4d1e-b159-8ea34590b003"; // TODO replace with your app ID (OPTIONAL)
 
 /**
 * When editing your questions pay attention to your punctuation. Make sure you use question marks or periods.
